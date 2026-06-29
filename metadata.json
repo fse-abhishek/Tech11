@@ -1,0 +1,6 @@
+{
+  "name": "Tech Research Technologies",
+  "description": "Production-quality corporate website for Tech Research Technologies featuring enterprise AI, cloud, cybersecurity research, and digital innovation solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
